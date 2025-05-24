@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inputPageButton"
+        android:icon="@drawable/ic_input"
+        android:title="Input" />
+    <item
+        android:id="@+id/tasksButton"
+        android:icon="@drawable/ic_tasks"
+        android:title="Tasks" />
+    <item
+        android:id="@+id/mapButton"
+        android:icon="@drawable/ic_map"
+        android:title="Map" />
+</menu>

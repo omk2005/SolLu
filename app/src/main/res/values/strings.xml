@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalproject7</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+</resources>
